@@ -1,6 +1,7 @@
 # Road-Accident-Dashboard-for-Year-2021-and-2022 <br />
-Objective of this project is to provide the client with an interactive dashboard in excel.
 Client wants to create a road accident dashboard for the year 2021 and 2022 so that they can have insight on the below requirements :- <br />
+Objective of this project is to provide the client with an interactive dashboard in excel. <br />
+
   * **Primary KPIs :-** <br />
     * Total casualties.<br />
     * Percentage of total with respect to accident severity.<br />
